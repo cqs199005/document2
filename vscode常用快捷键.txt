@@ -1,0 +1,24 @@
+同时选中所有匹配： Ctrl+Shift+L  /  Ctrl+F2
+
+文件之间切换 Ctrl+Tab
+
+代码行缩进 Ctrl+[ 、 Ctrl+]
+
+下一个匹配的也被选中 Ctrl+ Alt + D 
+
+查找替换 Ctrl+H
+
+侧边栏显/隐：Ctrl+B
+
+拆分编辑器 Ctrl+\
+
+显示集成终端 Ctrl+`
+
+
+//常用插件说明
+
+Auto Rename Tag  
+适用于 JSX、Vue、HTML，在修改标签名时，能在你修改开始（结束）标签的时候修改对应的结束（开始）标签，帮你减少 50% 的击键；
+
+IntelliSense for CSS class names
+CSS 类名补全，会自动扫描整个项目里面的 CSS 类名并在你输入类名时做智能提示；
