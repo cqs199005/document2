@@ -552,6 +552,15 @@ window.onhashchange=function(){
 }
 ```
 
+### 28.广告文字滚动
+
+```
+<marquee scrollamount="4">
+    <span>我是会滚动的文字!</span>
+    <span>我也是会滚动的!</span>
+</marquee>
+```
+
 
 
 # 插件使用
